@@ -1,6 +1,7 @@
 # Hermes Agent Desktop
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Demon904050/hermes-desktop/releases)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-orange.svg)](https://github.com/Demon904050/hermes-desktop/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/NousResearch/hermes-agent/blob/main/LICENSE)
 
 > **一个与你共同成长的 AI 助手** — 安装简单，配置一次，随时通过飞书、Telegram、Discord 等平台与它对话。
@@ -20,19 +21,17 @@ Hermes Agent 是一个开源的自主 AI 助手，核心特性：
 | 平台 | 系统要求 | 下载地址 |
 |------|----------|----------|
 | 🪟 Windows | Windows 10/11 | [Hermes Agent-1.0.0-Setup.exe](https://github.com/Demon904050/hermes-desktop/releases/tag/v1.0.0) |
-| 🍎 macOS (Apple Silicon) | macOS 12.0+, M1/M2/M3/M4 | [hermes-desktop-0.5.1-arm64.dmg](https://github.com/Demon904050/hermes-desktop/releases/tag/v0.5.1) |
-
-> ⚠️ macOS 版为 Apple Silicon 专用（M1/M2/M3/M4）。Intel Mac 用户请使用 Windows 版。
+| 🍎 macOS (Apple Silicon) | macOS 12.0+，M1/M2/M3/M4 | [hermes-desktop-0.5.1-arm64.dmg](https://github.com/Demon904050/hermes-desktop/releases/tag/v0.5.1) |
 
 ## 安装步骤
 
-### Windows 版
+### 🪟 Windows 版
 1. 下载 `Hermes Agent-1.0.0-Setup.exe`
 2. 双击运行，一路点击"下一步"即可
 3. 首次运行在「系统设置 → 隐私与安全性」中允许运行
 4. 启动后按终端提示完成 API Key 配置
 
-### macOS 版
+### 🍎 macOS 版
 1. 下载 `hermes-desktop-0.5.1-arm64.dmg`
 2. 双击挂载，将 **Hermes Agent** 拖入应用程序文件夹
 3. 首次运行在「系统设置 → 隐私与安全性」中点击"仍要打开"
